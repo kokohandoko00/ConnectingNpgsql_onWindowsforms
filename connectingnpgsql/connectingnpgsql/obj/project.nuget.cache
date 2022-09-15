@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Qux8IPbfNN0j8Eomp5gycDhwa4fnFrxhcyRWYCW+CKztgvnmTQvap58+Ez0ku7GGau9B/O60oHj23xOjsjgkQ==",
+  "success": true,
+  "projectFilePath": "E:\\tugas_koko\\Semester_7\\Junior_Projek _TI\\Program\\connectingnpgsql\\connectingnpgsql\\connectingnpgsql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
