@@ -8,7 +8,7 @@ namespace connectingnpgsql
         public Form1()
         {
             InitializeComponent();
-            NpgsqlConnection conn = new NpgsqlConnection("Server=localhost;Port=5432;User_Id=postgres;Password=Javierpedro2;Database=ListofName;");
+            NpgsqlConnection conn = new NpgsqlConnection("Server=localhost;Port=5432;Username=postgres;Password=Javierpedro2;Database=ListofName;");
             conn.Open();
             NpgsqlCommand cmd = new NpgsqlCommand();
             cmd.Connection = conn;
@@ -23,11 +23,6 @@ namespace connectingnpgsql
             }
             conn.Dispose();
             conn.Close();
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
         }
     }
 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vQH9xGcVRZOD3cyo3OGRVxG4SUqU/2UlsEcBpfQjYPJ8iaYs0HVuJ2TYzNQpU3isAiyZWGyaBoqt7UfcKRtjg==",
+  "success": true,
+  "projectFilePath": "E:\\tugas_koko\\Semester_7\\Junior_Projek _TI\\Program\\TryingConnectUsingConsoleApp\\TryingConnectUsingConsoleApp\\TryingConnectUsingConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

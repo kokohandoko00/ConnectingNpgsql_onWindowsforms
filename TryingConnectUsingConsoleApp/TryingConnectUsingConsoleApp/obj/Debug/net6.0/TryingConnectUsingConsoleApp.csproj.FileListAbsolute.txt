@@ -1,0 +1,17 @@
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\bin\Debug\net6.0\TryingConnectUsingConsoleApp.exe
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\bin\Debug\net6.0\TryingConnectUsingConsoleApp.deps.json
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\bin\Debug\net6.0\TryingConnectUsingConsoleApp.runtimeconfig.json
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\bin\Debug\net6.0\TryingConnectUsingConsoleApp.dll
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\bin\Debug\net6.0\TryingConnectUsingConsoleApp.pdb
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\bin\Debug\net6.0\Npgsql.dll
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.csproj.AssemblyReference.cache
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.AssemblyInfoInputs.cache
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.AssemblyInfo.cs
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.csproj.CoreCompileInputs.cache
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.csproj.CopyComplete
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.dll
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\refint\TryingConnectUsingConsoleApp.dll
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.pdb
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\TryingConnectUsingConsoleApp.genruntimeconfig.cache
+E:\tugas_koko\Semester_7\Junior_Projek _TI\Program\TryingConnectUsingConsoleApp\TryingConnectUsingConsoleApp\obj\Debug\net6.0\ref\TryingConnectUsingConsoleApp.dll
